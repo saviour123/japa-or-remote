@@ -7,7 +7,7 @@ This repository house companies who are known to hire directly from Africa and s
 3. Vivacity Labs(UK) https://jobs.lever.co/vivacitylabs
 4. Binance https://www.binance.com/en/careers/job-openings
 5. Crowdbotics https://crowdbotics-corp.breezy.hr/
-6. Andela https://signup.andela.com/
+6. Andela https://signup.andela.com/ (Use Saviour Gidi as reference)
 7. Cloudflare https://www.cloudflare.com/careers/jobs/
 8. hightacconsulting.com EMAIL VICTOR ABOUT OPPORTUNITIES: victortheousse@hightacconsulting.com
 9. ManyPets (previously called Bought By Many)(UK) https://many-group.com/careers/opportunities/?'
