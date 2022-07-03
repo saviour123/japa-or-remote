@@ -12,3 +12,7 @@ This repository house companies who are known to hire directly from Africa and s
 8. hightacconsulting.com EMAIL VICTOR ABOUT OPPORTUNITIES: victortheousse@hightacconsulting.com
 9. ManyPets (previously called Bought By Many)(UK) https://many-group.com/careers/opportunities/?'
 10. Musala Soft(Join From Anywhere) https://www.musala.com/careers/join-us/
+11. MonsterLabs https://monstarlab.recruitee.com/
+12. Cerebral works(Write to Recruiter Vandana@cerebral-works.com) - https://boards.greenhouse.io/cerebral
+13. Global-Saving https://www.global-savings-group.com/careers/
+14. 
