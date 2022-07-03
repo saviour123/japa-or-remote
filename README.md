@@ -15,4 +15,5 @@ This repository house companies who are known to hire directly from Africa and s
 11. MonsterLabs https://monstarlab.recruitee.com/
 12. Cerebral works(Write to Recruiter Vandana@cerebral-works.com) - https://boards.greenhouse.io/cerebral
 13. Global-Saving https://www.global-savings-group.com/careers/
-14. 
+14. Delivery Hero(germany) - https://careers.deliveryhero.com/global/en/c/tech-jobs
+15. Tractable AI - https://tractable.ai/en/careers
