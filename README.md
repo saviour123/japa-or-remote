@@ -33,3 +33,4 @@ This repository house companies who are known to hire directly from Africa and s
 ## Others
 1. https://relocate.me/search
 2. https://tunga.io
+3. https://angel.co/jobs
