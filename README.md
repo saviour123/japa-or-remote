@@ -16,9 +16,9 @@ This repository house companies who are known to hire directly from Africa and s
 12. MonsterLabs(monstar-lab.com) https://monstarlab.recruitee.com/ (Relocation)
 13. Cerebral works(Write to Recruiter Vandana@cerebral-works.com) - https://boards.greenhouse.io/cerebral
 14. Global-Saving https://www.global-savings-group.com/careers/
-15. Tractable AI - https://tractable.ai/en/careers
+15. Tractable AI - https://tractable.ai/en/careers (relocation)
 16. DefinedCrowd(AI) https://www.defined.ai/careers/
-17. Pleo https://www.pleo.io/en/careers
+17. Pleo https://www.pleo.io/en/careers (Relocation)
 18. Trigyn https://www.trigyn.com/careers?launch
 19. Pangea https://www.pangaea.holdings/careers
 20. global Payex- https://www.globalpayex.com/about-us/join-us/
@@ -26,7 +26,7 @@ This repository house companies who are known to hire directly from Africa and s
 22. Oracle Cloud Infrastructure - https://www.oracle.com/corporate/careers/opportunities/oci-jobs.html
 23. Microsoft - https://careers.microsoft.com/us/en
 24. Github - https://github.com/about/careers
-25. Elastic.co - https://jobs.elastic.co/all-openings#/
+25. Elastic.co - https://jobs.elastic.co/all-openings#/ (relocation)
 
 ## Others
 1. https://relocate.me/search
