@@ -23,9 +23,9 @@ This repository house companies who are known to hire directly from Africa and s
 19. global Payex- https://www.globalpayex.com/about-us/join-us/
 20. Aspira(Ireland) https://aspira.ie/careers/
 21. Oracle Cloud Infrastructure - https://www.oracle.com/corporate/careers/opportunities/oci-jobs.html
-22. Microsoft
-23. Github
-24. Elastic.co
+22. Microsoft - https://careers.microsoft.com/us/en
+23. Github - https://github.com/about/careers
+24. Elastic.co - https://jobs.elastic.co/all-openings#/
 
 ## Others
 1. https://relocate.me/search
