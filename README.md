@@ -22,3 +22,4 @@ This repository house companies who are known to hire directly from Africa and s
 18. Pangea https://www.pangaea.holdings/careers
 19. global Payex- https://www.globalpayex.com/about-us/join-us/
 20. Aspira(Ireland) https://aspira.ie/careers/
+21. Oracle Cloud Infrastructure - https://www.oracle.com/corporate/careers/opportunities/oci-jobs.html
