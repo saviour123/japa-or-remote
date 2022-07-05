@@ -30,7 +30,9 @@ This repository house companies who are known to hire directly from Africa and s
 26. Revolut - https://www.revolut.com/careers (relocation & remote) 
 27. Omio - https://www.omio.com/jobs/ (relocation)
 28. Adevinta - https://www.adevinta.com/careers (relocation)
+
 ## Others
 1. https://relocate.me/search
-2. https://tunga.io
-3. https://angel.co/jobs
+2. https://remotewx.com/
+3. https://tunga.io
+4. https://angel.co/jobs
