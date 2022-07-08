@@ -31,6 +31,13 @@ This repository house companies who are known to hire directly from Africa and s
 27. Omio - https://www.omio.com/jobs/ (relocation)
 28. Adevinta - https://www.adevinta.com/careers (relocation)
 29. gomoment https://gomoment.com/ (remote)
+30. Safeboda https://safeboda.com/ug/index.php/careers (remote)
+31. Yolo (Estonia) https://yolo.com (relocation)
+32. Zenloop (Germany) https://www.zenloop.com/en/company/career (relocation)
+33. 64robots https://www.64robots.com (remote)
+34. FlyIO https://fly.io/jobs (remote)
+35. Sketch https://www.sketch.com/careers (remote)
+36. Cabify https://cabify.careers/en/jobs?search=&office=&department=Engineering (relocation & remote)
 
 ## Others
 1. https://relocate.me/search
