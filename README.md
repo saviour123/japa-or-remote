@@ -23,7 +23,7 @@ This repository house companies who are known to hire directly from Africa and s
 
 11. <h4><a href="https://www.musala.com/careers/join-us/">Musala Soft</a></h4><p>Musala Soft is a software services company specialized in complex geographically distributed enterprise projects. </p><p><strong>Location- </strong>Sofia | <small>Join From Anywhere</small> </p>
 
-12. <h4><a href="https://monstar-lab.com/global/">Monster Lab</a></h4><p>Monster Lab deliver expert engineering and stunningly designed digital solutions to unleash growth for your business, customers and society. </p><p><strong>Location- </strong>Tokyo | <small>Relocation</small> </p>
+12. <h4><a href="https://monstarlab.recruitee.com/">Monster Lab</a></h4><p>Monster Lab deliver expert engineering and stunningly designed digital solutions to unleash growth for your business, customers and society. </p><p><strong>Location- </strong>Tokyo | <small>Relocation</small> </p>
 
 13. <h4><a href="https://boards.greenhouse.io/cerebral">Cerebral Works</a></h4><p>Cerebral offers online medication prescription, care counseling and treatment for anxiety, depression and insomnia.  </p><p><strong>Location- </strong>USA | <small>Write to Recruiter<a href="mailto:vandana@cerebral-works.com">Vandana</a></small> </p>
 
