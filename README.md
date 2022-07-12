@@ -38,6 +38,8 @@ This repository house companies who are known to hire directly from Africa and s
 34. FlyIO https://fly.io/jobs (remote)
 35. Sketch https://www.sketch.com/careers (remote)
 36. Cabify https://cabify.careers/en/jobs?search=&office=&department=Engineering (relocation & remote)
+37. MeetMatch (Belgium) https://www.meetmatch.biz/ (remote)
+38. madewithlove (Belgium) https://madewithlove.com/ (remote)
 
 ## Others
 1. https://relocate.me/search
