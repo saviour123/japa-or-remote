@@ -1,15 +1,28 @@
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+
 # japa-or-remote
 This repository house companies who are known to hire directly from Africa and support remote culture or relocation
 
+1. <h3><a href="https://careers.hellofresh.com/global/en/">Hellofresh</a></h3><p>HelloFresh SE is a publicly traded meal-kit company based in Berlin, Germany. It is the largest meal-kit provider in the United States.</p><p><strong>Location- </strong>Germany | <small>Relocation</small> </p>
 
-1. Hellofresh(Germany) https://careers.hellofresh.com/global/en/ - (relocation)
-2. Zalando(Germany) https://jobs.zalando.com/en/jobs/?gh_src=22377bdd1us - (relocation)
-3. Delivery Hero(germany) - https://careers.deliveryhero.com/global/en/c/tech-jobs - (relocation)
-4. Vivacity Labs(UK) https://jobs.lever.co/vivacitylabs (relocation)
-5. Binance https://www.binance.com/en/careers/job-openings (relocation)
-6. Crowdbotics https://crowdbotics-corp.breezy.hr/
-7. Andela https://signup.andela.com/ (Use Saviour Gidi as reference)
-8. Cloudflare https://www.cloudflare.com/careers/jobs/ (relocation)
+2. <h3><a href="https://jobs.zalando.com/en/jobs/?gh_src=22377bdd1us">Zalando</a></h3><p>Zalando SE is a publicly traded German online retailer of shoes, fashion and beauty.</p><p><strong>Location- </strong>Germany | <small>Relocation</small> </p>
+
+3. <h3><a href="https://careers.deliveryhero.com/global/en/c/tech-jobs">Delivery Hero</a></h3><p>Delivery Hero is a German multinational online food-delivery service based in Berlin, Germany.</p><p><strong>Location- </strong>Germany | <small>Relocation</small> </p>
+
+4. <h3><a href="https://jobs.lever.co/vivacitylabs">Vivacity Labs</a></h3><p>VivaCity's Artificial Intelligence solution provides detailed and anonymous data insights to help optimise the traffic and transport network in UK</p><p><strong>Location- </strong>UK | <small>Relocation</small> </p>
+
+5. <h3><a href="https://www.binance.com/en/careers/job-openings">Binance</a></h3><p>Binance is a blockchain ecosystem and digital asset exchange platform that combines digital technology and finance.</p><p><strong>Location- </strong>USA | <small>Relocation</small> </p>
+
+6. <h3><a href="https://crowdbotics-corp.breezy.hr/">Crowdbotics</a></h3><p>Crowdbotics makes it faster than ever to build complete, scalable apps for business.</p><p><strong>Location- </strong>USA | <small></small> </p>
+
+7. <h3><a href="https://signup.andela.com/">Andela</a></h3><p>Andela is a global job placement network for software developers.</p><p><strong>Location- </strong>USA | <small>Use Saviour Gidi as reference</small> </p>
+
+8. <h3><a href="https://www.cloudflare.com/careers/jobs/">Cloudflare</a></h3><p>Cloudflare, Inc. designs and develops software solutions. The Company offers platform for load balancing, video streaming, security etc.</p><p><strong>Location- </strong>USA | <small>Relocation</small> </p>
+
+
+8. Cloudflare  (relocation)
 9. hightacconsulting.com EMAIL VICTOR ABOUT OPPORTUNITIES: victortheousse@hightacconsulting.com
 10. ManyPets (previously called Bought By Many)(UK) https://many-group.com/careers/opportunities/
 11. Musala Soft(Join From Anywhere) https://www.musala.com/careers/join-us/
@@ -38,9 +51,14 @@ This repository house companies who are known to hire directly from Africa and s
 34. FlyIO https://fly.io/jobs (remote)
 35. Sketch https://www.sketch.com/careers (remote)
 36. Cabify https://cabify.careers/en/jobs?search=&office=&department=Engineering (relocation & remote)
+37. MeetMatch (Belgium) https://www.meetmatch.biz/ (remote)
+38. madewithlove (Belgium) https://madewithlove.com/ (remote)
 
 ## Others
 1. https://relocate.me/search
 2. https://remotewx.com/
 3. https://tunga.io
 4. https://angel.co/jobs
+
+
+
