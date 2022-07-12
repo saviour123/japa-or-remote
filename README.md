@@ -17,7 +17,7 @@ This repository house companies who are known to hire directly from Africa and s
 
 8. <h4><a href="https://www.cloudflare.com/careers/jobs/">Cloudflare</a></h4><p>Cloudflare, Inc. designs and develops software solutions. The Company offers platform for load balancing, video streaming, security etc.</p><p><strong>Location- </strong>USA | <small>Relocation</small> </p>
 
-9. <h4><a href="mailto:victortheousse@hightacconsulting.com">hightacconsulting.com</a></h4><p>Email Victor about Opportunities</p>
+9. <h4><a href="#">hightacconsulting.com</a></h4><p>Email <a href="mailto:victortheousse@hightacconsulting.com">Victor</a> about Opportunities</p>
 
 10. <h4><a href="https://many-group.com/careers/opportunities/">ManyPets (previously called Bought By Many)</a></h4><p>ManyPets, formerly Bought By Many, is an insurance technology company helping people find pet insurance </p><p><strong>Location- </strong>UK | <small></small> </p>
 
