@@ -73,9 +73,9 @@ This repository house companies who are known to hire directly from Africa and s
 
 36. <h4><a href="https://cabify.careers/en/jobs?search=&office=&department=Engineering">Cabify</a></h4><p>Cabify, part of the Maxi Mobility holding company, connects private and business users with the forms of transport that best suit their needs. </p><p><strong>Location- </strong>Madrid | <small>Relocation & Remote</small> </p>
 
-37. <h4><a href="https://www.meetmatch.biz/">MeetMatch</a></h4><p>MeetMatch is an end-to-end solution to add interactivity and optimal networking to your events. </p><p><strong>Location- </strong>Belgium | <small>Remote</small> </p>
+37. <h4><a href="https://www.meetmatch.biz/career/">MeetMatch</a></h4><p>MeetMatch is an end-to-end solution to add interactivity and optimal networking to your events. </p><p><strong>Location- </strong>Belgium | <small>Remote</small> </p>
 
-38. <h4><a href="https://madewithlove.com/">madewithlove</a></h4><p>They help build digital products that make businesses grow for the better. </p><p><strong>Location- </strong>Belgium | <small>Remote</small> </p>
+38. <h4><a href="https://madewithlove.com/careers/">madewithlove</a></h4><p>They help build digital products that make businesses grow for the better. </p><p><strong>Location- </strong>Belgium | <small>Remote</small> </p>
 
 39. <h4><a href="https://energi.world/join-our-team/">Energi</a></h4><p>Energi (NRG) is a next-generation Proof-of-Stake (PoS) cryptocurrency that combines smart contracts, decentralized governance, and a self-funding treasury. </p><p><strong>Location- </strong>British Virgin Island | <small>Remote</small> </p>
 
