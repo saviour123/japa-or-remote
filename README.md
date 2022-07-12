@@ -61,7 +61,7 @@ This repository house companies who are known to hire directly from Africa and s
 
 30. <h4><a href="https://safeboda.com/ug/index.php/careers">Safe Boda</a></h4><p>SafeBoda is Africa’s Super App - 2-wheeler ride hailing market leader and has a growing consumer platform that is revolutionizing transportation, payments, fin services and on-demand services in Africa’s cities. </p><p><strong>Location- </strong>Kampala | <small>Remote</small> </p>
 
-31. <h4><a href="https://yolo.com">Yolo Group</a></h4><p>Yolo Group sits at the convergence of dynamic sectors: gaming, fintech and blockchain. </p><p><strong>Location- </strong>Talinn | <small>Relocation</small> </p>
+31. <h4><a href="[(https://careers.yolo.com](https://careers.yolo.com/)">Yolo Group</a></h4><p>Yolo Group sits at the convergence of dynamic sectors: gaming, fintech and blockchain. </p><p><strong>Location- </strong>Talinn | <small>Relocation</small> </p>
 
 32. <h4><a href="https://www.zenloop.com/en/company/career">Zenloop</a></h4><p>Zenloop are the leading integrated experience management platform </p><p><strong>Location- </strong>Germany | <small>Relocation</small> </p>
 
