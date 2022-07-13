@@ -39,7 +39,7 @@ This repository house companies who are known to hire directly from Africa and s
 
 19. <h4><a href="https://www.pangaea.holdings/careers">Pangaea</a></h4><p>Pangaea is on a mission to connect consumers around the world with brands they love. </p><p><strong>Location- </strong>USA | <small>Remote</small> </p>
 
-20. <h4><a href="https://www.globalpayex.com/about-us/join-us/">Global PayEX</a></h4><p>Global PayEX is an AI powered cloud platform for working capital optimisation in B2B AR (accounts receivable) & AP (accounts payable) - automation, reconciliation, analytics and financing. </p><p><strong>Location- </strong>Mumbai | <small></small> </p>
+20. <h4><a href="https://www.globalpayex.com/about-us/join-us/">Global PayEX</a></h4><p>Global PayEX is an AI powered cloud platform for working capital optimisation in B2B AR (accounts receivable) & AP (accounts payable) - automation, reconciliation, analytics and financing. </p><p><strong>Location- </strong>USA & Mumbai | Work from anywhere<small></small> </p>
 
 21. <h4><a href="https://aspira.ie/careers/">Aspira</a></h4><p>At Aspira, we transform business through technology.  </p><p><strong>Location- </strong>Ireland | <small>Relocation & Remote</small> </p>
 
