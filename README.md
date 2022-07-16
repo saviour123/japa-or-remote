@@ -79,6 +79,10 @@ This repository house companies who are known to hire directly from Africa and s
 
 39. <h4><a href="https://energi.world/join-our-team/">Energi</a></h4><p>Energi (NRG) is a next-generation Proof-of-Stake (PoS) cryptocurrency that combines smart contracts, decentralized governance, and a self-funding treasury. </p><p><strong>Location- </strong>British Virgin Island | <small>Remote</small> </p>
 
+40.  <h4><a href="https://deimos.io/careers">Deimos</a></h4><p> Cloud Native Developer and Security Operations Company. </p><p><strong>Location- </strong>South Africa-Cape Town | <small>Remote(South Africa, Kenya, Nigeria, Ghana)</small> </p>
+
+41.  <h4><a href="https://scalecapacity.com/careers.html">Scale Capacity</a></h4><p> Amazon Web Services, Cloud, Information Technology, Public Cloud, Cloud Migration, Cloud Optimization, Consulting, AWS, IaaS, IT Consulting, Cloud Consulting, Staffing, and Digital Transformation. </p><p><strong>Location- </strong> USA-Los Angeles, CA | <small>Global Remote</small> </p>
+
 ## Others
 1. https://relocate.me/search
 2. https://remotewx.com/
