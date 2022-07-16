@@ -1,4 +1,5 @@
 # japa-or-remote
+
 This repository house companies who are known to hire directly from Africa and support remote culture or relocation
 
 1. <h4><a href="https://careers.hellofresh.com/global/en/">Hellofresh</a></h4><p>HelloFresh SE is a publicly traded meal-kit company based in Berlin, Germany. It is the largest meal-kit provider in the United States.</p><p><strong>Location- </strong>Germany | <small>Relocation</small> </p>
@@ -79,12 +80,14 @@ This repository house companies who are known to hire directly from Africa and s
 
 39. <h4><a href="https://energi.world/join-our-team/">Energi</a></h4><p>Energi (NRG) is a next-generation Proof-of-Stake (PoS) cryptocurrency that combines smart contracts, decentralized governance, and a self-funding treasury. </p><p><strong>Location- </strong>British Virgin Island | <small>Remote</small> </p>
 
+40. <h4><a href="https://www.simple-dealer.com/">Simple Dealer</a></h4><p>Simple Dealer helps dealerships improve customer satisfaction by streamlining the finance and sales processes. </p><p><strong>Location- </strong>USA | <small>Remote</small> </p>
+
+41. <h4><a href="https://apps.shopify.com/horse">Horse</a></h4><p>Horse is an inventory management app designed exclusively for Shopify Shops. </p><p><strong>Location- </strong>Canada | <small>Remote</small> </p>
+
 ## Others
+
 1. https://relocate.me/search
 2. https://remotewx.com/
 3. https://tunga.io
 4. https://angel.co/jobs
 5. https://remoteok.com/
-
-
-
