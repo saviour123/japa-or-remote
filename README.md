@@ -1,4 +1,5 @@
 # japa-or-remote
+
 This repository house companies who are known to hire directly from Africa and support remote culture or relocation
 
 1. <h4><a href="https://careers.hellofresh.com/global/en/">Hellofresh</a></h4><p>HelloFresh SE is a publicly traded meal-kit company based in Berlin, Germany. It is the largest meal-kit provider in the United States.</p><p><strong>Location- </strong>Germany | <small>Relocation</small> </p>
@@ -79,16 +80,16 @@ This repository house companies who are known to hire directly from Africa and s
 
 39. <h4><a href="https://energi.world/join-our-team/">Energi</a></h4><p>Energi (NRG) is a next-generation Proof-of-Stake (PoS) cryptocurrency that combines smart contracts, decentralized governance, and a self-funding treasury. </p><p><strong>Location- </strong>British Virgin Island | <small>Remote</small> </p>
 
-40.  <h4><a href="https://deimos.io/careers">Deimos</a></h4><p> Cloud Native Developer and Security Operations Company. </p><p><strong>Location- </strong>South Africa-Cape Town | <small>Remote(South Africa, Kenya, Nigeria, Ghana)</small> </p>
+40. <h4><a href="https://deimos.io/careers">Deimos</a></h4><p> Cloud Native Developer and Security Operations Company. </p><p><strong>Location- </strong>South Africa-Cape Town | <small>Remote(South Africa, Kenya, Nigeria, Ghana)</small> </p>
 
-41.  <h4><a href="https://scalecapacity.com/careers.html">Scale Capacity</a></h4><p> Amazon Web Services, Cloud, Information Technology, Public Cloud, Cloud Migration, Cloud Optimization, Consulting, AWS, IaaS, IT Consulting, Cloud Consulting, Staffing, and Digital Transformation. </p><p><strong>Location- </strong> USA-Los Angeles, CA | <small>Global Remote</small> </p>
+41. <h4><a href="https://scalecapacity.com/careers.html">Scale Capacity</a></h4><p> Amazon Web Services, Cloud, Information Technology, Public Cloud, Cloud Migration, Cloud Optimization, Consulting, AWS, IaaS, IT Consulting, Cloud Consulting, Staffing, and Digital Transformation. </p><p><strong>Location- </strong> USA-Los Angeles, CA | <small>Global Remote</small> </p>
+
+42. <h4><a href="https://www.itssglobal.com/index.php/recruitment/">ITSS</a></h4><p> Information Technologies Solutions & Services (ITSS) develops and delivers banking technology (Temenos Transact/ T24) solutions and services for banks and financial institutions all around the world. </p><p><strong>Location- </strong> Geneva, Switzerland | <small>Global Remote</small> </p>
 
 ## Others
+
 1. https://relocate.me/search
 2. https://remotewx.com/
 3. https://tunga.io
 4. https://angel.co/jobs
 5. https://remoteok.com/
-
-
-
